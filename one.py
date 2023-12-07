@@ -5,3 +5,6 @@ print(a+b)
 
 print("subtraction")
 print(b-a)
+
+print("mult")
+print(a*b)
