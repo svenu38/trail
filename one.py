@@ -13,9 +13,9 @@ print("hi i am shilpa")
 
 def check_even_odd(i):
     if (i%2) == 0 :
-        print(i ,"is a even number")
+        print(i ," even number")
     else:
-        print(i, "is odd number") 
+        print(i, "  odd number") 
 
 
 for i in range(1,11):
