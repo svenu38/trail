@@ -5,3 +5,7 @@ print(a+b)
 
 print("subtraction")
 print(b-a)
+
+
+print("division")
+print(b/a)
