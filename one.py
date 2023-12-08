@@ -21,3 +21,4 @@ def check_even_odd(i):
 for i in range(1,11):
     check_even_odd(i)
     
+print("the code is running perfet")
